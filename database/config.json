@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123456",
+    "database": "merchant_database",
+    "host": "121.196.60.62",
+    
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "123456",
+    "database": "merchant_database",
+    "host": "121.196.60.62",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "123456",
+    "database": "merchant_database",
+    "host": "121.196.60.62",
+    "dialect": "mysql"
+  }
+}
